@@ -17,3 +17,4 @@ python -c "import torch; print(torch.cuda.is_available())"
 
 # 4. 필수 패키지 설치
 pip install transformers datasets scikit-learn pandas tqdm regex protobuf
+```bash
