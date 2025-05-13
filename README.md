@@ -1,6 +1,8 @@
 # Smart_AccountBook  
 딥러닝 프로젝트: OCR + 소비 항목 분류 (KcELECTRA 기반)
 
+kc_model 폴더는 용량이 크므로 메일로 요청시 전달방법을 찾아보겠습니다.
+
 ## Requirements
 **conda 환경 권장**
 
@@ -17,4 +19,3 @@ python -c "import torch; print(torch.cuda.is_available())"
 
 # 4. 필수 패키지 설치
 pip install transformers datasets scikit-learn pandas tqdm regex protobuf
-```bash
